@@ -1,0 +1,26 @@
+{
+  "name": "random-string-msg-platzi-ydaka",
+  "version": "1.0.1",
+  "description": "Random string messages - Practical platzi class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "github",
+    "url": "git+https://github.com/ydaka/random-string-msg-platzi-ydaka.git"
+  },
+  "keywords": [],
+  "author": "Camilo Garcia <yefercoronel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ydaka/random-string-msg-platzi-ydaka/issues"
+  },
+  "bin": {
+    "random-string-msg-platzi-ydaka": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
